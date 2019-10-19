@@ -95,5 +95,6 @@ ts版本在`src/main.ts`中,最先使用ts实现,随后编写为js
 `git clone https://github.com/moshuying/workSpace.git`
 
 `npm install --registry https://registry.npm.taobao.org && npm run test`
+
 jest运行结果
 ![最终结果](./result.png)
