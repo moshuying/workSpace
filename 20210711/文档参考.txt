@@ -1,0 +1,12 @@
+1、先入门手册 http://www.hightopo.com/guide/guide/core/beginners/ht-beginners-guide.html
+2、看数据模型 http://www.hightopo.com/guide/guide/core/datamodel/ht-datamodel-guide.html
+3、阅矢量手册 http://www.hightopo.com/guide/guide/core/vector/ht-vector-guide.html
+4、读数据绑定 http://www.hightopo.com/guide/guide/core/databinding/ht-databinding-guide.html
+5、表格使用：https://www.hightopo.com/guide/guide/core/tableview/ht-tableview-guide.html
+6、分割布局：https://www.hightopo.com/guide/guide/core/splitview/ht-splitview-guide.html
+7、3d: https://www.hightopo.com/guide/guide/core/3d/ht-3d-guide.html
+
+用到的知识点都在这些文档里了，文档内容很多，但是不用都看一遍，浏览一遍找出自己需要用到的内容即可
+
+lib/core/ht.js 是必须引入的，其它的库依据文档来，需要就引入
+
